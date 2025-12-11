@@ -1,6 +1,6 @@
 - 👋 Hello world, I’m @bellafishman
 - 🌱 I'm a 4th year at Northwestern University majoring in Computer Science.
-- 👀 I’m interested in software development. Mostly experienced in backend development.
+- 👀 I’m interested in software development.
 
 
 <!---
